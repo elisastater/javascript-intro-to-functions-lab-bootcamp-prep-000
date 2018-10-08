@@ -9,6 +9,7 @@ return string.toLowerCase('hello')
 function logShout(string) {
  console.log(`HELLO`)
  
+<<<<<<< HEAD
 }
 
 function logWhisper(string) {
@@ -30,5 +31,12 @@ return 'I love you, too.';
 }
  
  
+=======
+ 
+}
+
+ 
+
+>>>>>>> 4d25d1a8a2d4c11cdd01ffd52b586a5c1611da64
   
   
